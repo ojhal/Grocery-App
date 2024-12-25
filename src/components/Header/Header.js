@@ -17,7 +17,7 @@ const Header = () => {
             <Select/>
             <div className='search'>
               <input type='text' placeholder='search for items...'/>
-              <SearchIcon className='searchIcon cursor'/>
+              {/* <SearchIcon className='searchIcon cursor'/> */}
             </div>
           </div>
           </div>
